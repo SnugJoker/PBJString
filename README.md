@@ -1,0 +1,2 @@
+# PBJString
+NSString class category.
