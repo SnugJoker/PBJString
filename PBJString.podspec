@@ -19,7 +19,7 @@ s.source           = { :git => 'https://github.com/SnugJoker/PBJString.git', :ta
 s.ios.deployment_target = '8.0'
 
 s.source_files = 'PBJString/Classes/*'
-s.public_header_files = 'PBJString/Classes/PBJString.h'
+s.public_header_files = 'PBJString/Classes/*.h'
 
 
 end
