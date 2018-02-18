@@ -25,7 +25,7 @@ pod 'PBJString'
 To use PBJAnimations first import the class:
 
 ```objectivec
-#import "PBJString.h"
+#import "NSString+PBJString.h"
 ```
 
 Then simply add one of the methods to your code:

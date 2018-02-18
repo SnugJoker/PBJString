@@ -8,6 +8,9 @@
 
 @import UIKit;
 
+#import "NSString+PBJString.h"
+
+
 @interface PBJViewController : UIViewController
 
 @end

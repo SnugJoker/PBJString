@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		06B2C3F2C38D4089FF19D9AC /* Pods-PBJString_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PBJString_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PBJString_Example/Pods-PBJString_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		07DE9EF5590F3948867B2490 /* PBJString.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = PBJString.podspec; path = ../PBJString.podspec; sourceTree = "<group>"; };
+		07DE9EF5590F3948867B2490 /* PBJString.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PBJString.podspec; path = ../PBJString.podspec; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* PBJString_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PBJString_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -61,12 +61,12 @@
 		691F0795C8F654EC5AE162DF /* Pods_PBJString_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PBJString_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8C51703DB5FD103110A7DE36 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		8C51703DB5FD103110A7DE36 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		939C366A171E0AD07A16E731 /* Pods-PBJString_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PBJString_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-PBJString_Example/Pods-PBJString_Example.release.xcconfig"; sourceTree = "<group>"; };
 		95AAFC3CF1CF7F60821D343F /* Pods-PBJString_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PBJString_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-PBJString_Tests/Pods-PBJString_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		9E0703D4EA0B54046650CE2B /* Pods_PBJString_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PBJString_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5B89572A1EE700A8E6A8203 /* Pods-PBJString_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PBJString_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PBJString_Tests/Pods-PBJString_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		FCCC7E1F69A51EF1A06FED89 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		FCCC7E1F69A51EF1A06FED89 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -250,6 +250,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = josephrazon;
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = JB999GBMLA;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -533,6 +536,7 @@
 			baseConfigurationReference = 06B2C3F2C38D4089FF19D9AC /* Pods-PBJString_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = JB999GBMLA;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "PBJString/PBJString-Prefix.pch";
 				INFOPLIST_FILE = "PBJString/PBJString-Info.plist";
@@ -548,6 +552,7 @@
 			baseConfigurationReference = 939C366A171E0AD07A16E731 /* Pods-PBJString_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = JB999GBMLA;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "PBJString/PBJString-Prefix.pch";
 				INFOPLIST_FILE = "PBJString/PBJString-Info.plist";
