@@ -1,0 +1,16 @@
+PODS:
+  - PBJString (0.1.0)
+
+DEPENDENCIES:
+  - PBJString (from `../`)
+
+EXTERNAL SOURCES:
+  PBJString:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PBJString: fe5d38552c5c939d7b976768f382e08d4dca4ff4
+
+PODFILE CHECKSUM: c03e9c325e40d89d640ab3acb9ff120340443466
+
+COCOAPODS: 1.4.0
