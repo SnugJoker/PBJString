@@ -1,9 +1,10 @@
 # PBJString
 
-[![CI Status](http://img.shields.io/travis/josephrazon/PBJString.svg?style=flat)](https://travis-ci.org/josephrazon/PBJString)
+[![CI Status](http://img.shields.io/travis/SnugJoker/PBJString.svg?style=flat)](https://travis-ci.org/josephrazon/PBJString)
 [![Version](https://img.shields.io/cocoapods/v/PBJString.svg?style=flat)](http://cocoapods.org/pods/PBJString)
 [![License](https://img.shields.io/cocoapods/l/PBJString.svg?style=flat)](http://cocoapods.org/pods/PBJString)
 [![Platform](https://img.shields.io/cocoapods/p/PBJString.svg?style=flat)](http://cocoapods.org/pods/PBJString)
+[![BCH compliance](https://bettercodehub.com/edge/badge/SnugJoker/PBJString?branch=master)](https://bettercodehub.com/)
 
 ## Example
 
