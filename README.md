@@ -59,7 +59,7 @@ Then simply add one of the methods to your code:
 
 ## Author
 
-josephrazon, razonjoe@gmail.com
+Joseph Razon, razonjoe@gmail.com
 
 ## License
 
