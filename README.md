@@ -1,2 +1,29 @@
 # PBJString
-NSString class category.
+
+[![CI Status](http://img.shields.io/travis/josephrazon/PBJString.svg?style=flat)](https://travis-ci.org/josephrazon/PBJString)
+[![Version](https://img.shields.io/cocoapods/v/PBJString.svg?style=flat)](http://cocoapods.org/pods/PBJString)
+[![License](https://img.shields.io/cocoapods/l/PBJString.svg?style=flat)](http://cocoapods.org/pods/PBJString)
+[![Platform](https://img.shields.io/cocoapods/p/PBJString.svg?style=flat)](http://cocoapods.org/pods/PBJString)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+PBJString is available through [CocoaPods](http://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'PBJString'
+```
+
+## Author
+
+josephrazon, razonjoe@gmail.com
+
+## License
+
+PBJString is available under the MIT license. See the LICENSE file for more info.
