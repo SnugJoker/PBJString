@@ -6,8 +6,11 @@
 [![Platform](https://img.shields.io/cocoapods/p/PBJString.svg?style=flat)](http://cocoapods.org/pods/PBJString)
 [![BCH compliance](https://bettercodehub.com/edge/badge/SnugJoker/PBJString?branch=master)](https://bettercodehub.com/)
 
-## Example
 
+## Description
+NSString class category for more powerful string handling.
+
+## Example
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
