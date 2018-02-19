@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 s.name             = 'PBJString'
 s.version          = '1.0.0'
 s.summary          = 'Animations & transitions framework.'
-s.description      = 'PBJString is a simple NSString category.'
+s.description      = 'PBJString is a simple NSString category for more powerful string handling..'
 s.homepage         = 'https://github.com/SnugJoker/PBJString'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'Joseph Razon' => 'razonjoe@gmail.com' }
