@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/PBJString.svg?style=flat)](http://cocoapods.org/pods/PBJString)
 [![Platform](https://img.shields.io/cocoapods/p/PBJString.svg?style=flat)](http://cocoapods.org/pods/PBJString)
 [![BCH compliance](https://bettercodehub.com/edge/badge/SnugJoker/PBJString?branch=master)](https://bettercodehub.com/)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/JoeRazon)
 
 
 ## Description
